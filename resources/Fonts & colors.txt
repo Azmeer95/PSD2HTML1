@@ -1,0 +1,18 @@
+Colors:
+-----------
+1. #ffc61a
+2. #1b1b1b
+
+Fonts:
+-----------
+1. Lato - Regular, Black
+2. Bebas Neue - Bold
+
+CSS:
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:wght@300;400;700;900&display=swap');
+
+Font Family:
+
+font-family: 'Bebas Neue', cursive;
+font-family: 'Lato', sans-serif;

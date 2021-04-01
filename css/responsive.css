@@ -1,0 +1,59 @@
+/* Header Start */
+@media (max-width: 768px) {
+    
+    header {
+        padding: 50px 0;
+    }
+
+    ul {
+        margin-top: 20px;
+    }
+    
+    .mt-5, .my-5 {
+        margin-top: 6rem!important;
+    }
+}
+
+@media (max-width: 556px) {
+    
+    .mt-5, .my-5 {
+        margin-top: 1rem!important;
+    }
+}
+
+@media (max-width: 480px) {
+
+    .mt-5, .my-5 {
+        margin-top: 0rem!important;
+    }
+}
+
+@media (max-width: 320px) {
+
+    header .header-info h3{
+        font-size: 24px;
+    }
+
+    header .header-info h1 {
+        font-size: 37px;
+    }
+
+    header .header-info p {
+        letter-spacing: 4px;
+    }
+}
+
+@media (max-width: 290px) {
+
+    header .header-info h3{
+        font-size: 24px;
+    }
+
+    header .header-info h1 {
+        font-size: 34px;
+    }
+
+    header .header-info p {
+        letter-spacing: 4px;
+    }
+}
